@@ -19,7 +19,7 @@
  Install using **composer**:
 
  ```bash
- $ composer require werneckbh/qr-code
+ $ composer require trungminhphan/qr-code
  ```
 
  ## QR Code Types
